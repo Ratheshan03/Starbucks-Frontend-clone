@@ -256,3 +256,23 @@ footer h3 {
   margin-top: 40px;
   margin-right: 20px;
 }
+
+.policy {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.po {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.policy a:hover {
+  text-decoration: underline;
+}
+
+.final {
+  font-size: small;
+  color: #acacac;
+}
