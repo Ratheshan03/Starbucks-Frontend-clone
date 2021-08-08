@@ -32,6 +32,7 @@ header {
 .logo {
   height: 51px;
   width: 51px;
+  cursor: pointer;
 }
 
 .logo img {
