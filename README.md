@@ -1,5 +1,5 @@
 # Starbucks-Frontend-clone ☕
-Responsive Starbucks frontend Website Using HTML and CSS with a beautiful user interface. ✨ 
+Responsive Starbucks frontend-website using HTML and CSS with a beautiful user interface. ✨ 
 
 Checkout the link to see the deployed version: https://ratheshan03.github.io/Starbucks-Frontend-clone/ 
 
